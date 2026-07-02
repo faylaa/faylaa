@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Server Manager · Developer · Community Builder</h1>
+<h1 align="center">⚔️ Server Manager · Developer </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Minecraft+Infrastructure;Discord+Bots+%26+Systems;Team+Leadership" alt="Typing SVG" /></a>
