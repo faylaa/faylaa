@@ -13,9 +13,10 @@
 ---
 
 <h3>
-  <img src="https://minecraft.wiki/images/thumb/Grass_Block_JE7_BE6.png/20px-Grass_Block_JE7_BE6.png" alt="grass" style="vertical-align:middle"/>
-  CrageNetwork <code>2020</code>
+  <img src="https://minecraft.wiki/images/thumb/Diamond_Sword_JE3_BE3.png/20px-Diamond_Sword_JE3_BE3.png" alt="netherite sword" style="vertical-align:middle"/>
+  PoenaSaga <code>Present</code>
 </h3>
+
 
 <p align="left">
 📅 In <b>2020</b>, I founded <b>CrageNetwork</b> — a competitive PvP-focused network built from scratch with a small but driven team.<br/><br/>
@@ -53,9 +54,9 @@
 <p align="left">
   <a href="https://discord.gg/cUC5y2EnTg" target="_blank">
     <img src="https://img.shields.io/badge/🗡️_PoenaSaga-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="PoenaSaga Discord"/>
-  </a>
+</a>
   <a href="https://discord.gg/cmjwU5zTj7" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_Poena_AAC-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Poena AAC Discord"/>
+    <img src="https://img.shields.io/badge/⚖️_Poena_AAC-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Poena AAC 
   </a>
   <a href="https://discord.gg/kWTpe4QcHE" target="_blank">
     <img src="https://img.shields.io/badge/🏆_Smash_Tierlist-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Smash Tierlist Discord"/>
