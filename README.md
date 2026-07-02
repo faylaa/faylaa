@@ -10,8 +10,6 @@
 
 <p align="left">
 I've spent the last <b>7 years</b> deep in the Minecraft server scene — not just playing, but building, managing, and scaling communities from the ground up. My work sits at the intersection of <b>leadership</b>, <b>moderation</b>, and <b>hands-on development</b>: staffing teams, shaping rules and workflows, tuning server performance, and shipping the plugins, bots, and in-game systems that keep everything running smoothly.<br/><br/>
-I care about clean operations, fair moderation, and giving players a server that actually feels alive — not a dead box with a fancy IP.
-</p>
 
 ---
 
