@@ -16,7 +16,7 @@ I've spent the last <b>7 years</b> deep in the Minecraft server scene — not ju
 ###  CrageNetwork <code>2020</code>
 
 <p align="left">
-In <b>2020</b>, I founded <b>CrageNetwork</b> — a competitive 'skyblock'-focused network built from scratch with a small but driven team. We handled everything: server setup, plugin stack, staff structure, event planning, and day-to-day management.<br/><br/>
+In <b>2020</b>, I founded <b>CrageNetwork</b> — a competitive skyblock focused network built from scratch with a small but driven team. We handled everything: server setup, plugin stack, staff structure, event planning, and day-to-day management.<br/><br/>
 It wasn't a weekend project. We pushed hard, iterated constantly, and at our peak we hit <b>200+ concurrent players online</b> — a solid milestone in a crowded market where most networks never break past empty lobbies. CrageNetwork taught me how to grow a playerbase, keep staff aligned, and stay sharp when things scale fast.
 </p>
 
