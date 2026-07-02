@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Server Manager · Developer </h1>
+<h1 align="center"> Server Manager · Developer </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Minecraft+Infrastructure;Discord+Bots+%26+Systems;Team+Leadership" alt="Typing SVG" /></a>
@@ -15,7 +15,7 @@ I care about clean operations, fair moderation, and giving players a server that
 
 ---
 
-### ⚔️ CrageNetwork <code>2020</code>
+###  CrageNetwork <code>2020</code>
 
 <p align="left">
 In <b>2020</b>, I founded <b>CrageNetwork</b> — a competitive PvP-focused network built from scratch with a small but driven team. We handled everything: server setup, plugin stack, staff structure, event planning, and day-to-day management.<br/><br/>
@@ -24,7 +24,7 @@ It wasn't a weekend project. We pushed hard, iterated constantly, and at our pea
 
 ---
 
-### 🎮 PoenaSaga <code>Present</code>
+### PoenaSaga <code>Present</code>
 
 <p align="left">
 Today I'm on the <b>management team at PoenaSaga</b> — one of Turkey's established PvP networks. I help run operations behind <code>mc.poenasaga.com</code>: staff coordination, server-side decisions, community direction, and whatever needs fixing before players notice.<br/><br/>
