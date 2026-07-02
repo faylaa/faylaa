@@ -1,4 +1,4 @@
- /><h1 align="center"> Server Manager · Developer </h1>
+<h1 align="center"> Server Manager · Developer </h1>
 
 ---
 
