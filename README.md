@@ -13,8 +13,8 @@
 ---
 
 <h3>
-  <img src="https://minecraft.wiki/images/thumb/Diamond_Sword_JE3_BE3.png/20px-Diamond_Sword_JE3_BE3.png" alt="netherite sword" style="vertical-align:middle"/>
-  PoenaSaga <code>Present</code>
+  <img src="https://minecraft.wiki/images/thumb/Grass_Block_JE7_BE6.png/20px-Grass_Block_JE7_BE6.png" alt="grass" style="vertical-align:middle"/>
+  CrageNetwork <code>2020</code>
 </h3>
 
 
@@ -28,7 +28,7 @@
 ---
 
 <h3>
-  <img src="https://minecraft.wiki/images/thumb/Netherite_Sword_JE3_BE2.png/20px-Netherite_Sword_JE3_BE2.png" alt="netherite sword" style="vertical-align:middle"/>
+  <img src="https://minecraft.wiki/images/thumb/Diamond_Sword_JE3_BE3.png/20px-Diamond_Sword_JE3_BE3.png" alt="netherite sword" style="vertical-align:middle"/>
   PoenaSaga <code>Present</code>
 </h3>
 
