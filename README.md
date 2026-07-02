@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d5ed3af4-db3c-4e75-bd12-e713dbe6f7d1" /><h1 align="center"> Server Manager · Developer </h1>
+ /><h1 align="center"> Server Manager · Developer </h1>
 
 ---
 
