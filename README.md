@@ -33,27 +33,3 @@
 
 ---
 
-### 📊 GitHub İstatistikler
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faylaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&locale=tr" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=faylaa&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faylaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&locale=tr" alt="Top languages"/>
-</p>
-
----
-
-### 🍕 Günün Sözü
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faylaa&color=58A6FF&style=for-the-badge" alt="Profile views"/>
-</p>
