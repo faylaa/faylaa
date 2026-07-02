@@ -46,7 +46,7 @@
 </h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-fayla-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: fayla"/>
+  <img src="https://img.shields.io/badge/Discord-faylaa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: faylaa"/>
 </p>
 
 **🌐 Discord Sunucularım**
