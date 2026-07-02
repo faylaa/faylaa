@@ -31,6 +31,29 @@ PoenaSaga is where years of CrageNetwork lessons meet a bigger stage — same mi
 
 ---
 
+### 💬 Discord
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-fayla-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: fayla"/>
+</p>
+
+**Discord Sunucularım**
+
+<p align="left">
+  <a href="https://discord.gg/cUC5y2EnTg" target="_blank">
+    <img src="https://img.shields.io/badge/PoenaSaga-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="PoenaSaga Discord"/>
+  </a>
+  <a href="https://discord.gg/cmjwU5zTj7" target="_blank">
+    <img src="https://img.shields.io/badge/Poena_AAC-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Poena AAC Discord"/>
+  </a>
+  <a href="https://discord.gg/kWTpe4QcHE" target="_blank">
+    <img src="https://img.shields.io/badge/Smash_Tierlist-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Smash Tierlist Discord"/>
+  </a>
+</p>
+
+---
+
+
 ### 💻 Stack
 
 <p align="left">
